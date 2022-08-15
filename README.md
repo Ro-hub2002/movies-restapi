@@ -1,2 +1,2 @@
-CRUD con Flask, REST API
+REST API con Flask
 Insomnia 
